@@ -43,11 +43,9 @@ p, h1{
     height: 40px;
     display: inline-block;
     text-align: center;
-
-
 }
 body {
-    background-image: url('football.png');  
+    background-image: url('football\ \(2\).png');  
     background-size: 50% auto; 
     background-position: right center;
     background-repeat: no-repeat; 
